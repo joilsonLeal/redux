@@ -94,7 +94,7 @@ function Home() {
       <li>
         <img
           src="https://static.netshoes.com.br/produtos/tenis-venetto-casual-caminhada-leve-confortavel-masculino/06/EPL-0186-006/EPL-0186-006_zoom2.jpg?ts=1564484531&ims=326x"
-          alt="tênis"
+          alt="Tênis"
         />
         <strong>Tênis muito legal</strong>
         <span>R$ 129,90</span>
