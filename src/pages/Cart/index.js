@@ -53,12 +53,13 @@ function Cart() {
 
       <footer>
         <button type="button">Finalizar pedido</button>
+
+        <Total>
+          <span>TOTAL</span>
+          <strong>R$1920,28</strong>
+        </Total>
       </footer>
 
-      <Total>
-        <span>TOTAL</span>
-        <strong>R$1920,28</strong>
-      </Total>
     </Container>
   );
 }
