@@ -44,7 +44,7 @@ function Home({ amount, addToCartRequest }) {
 
             <button
               type="button"
-              onClick={() => this.handleAddProduct(product.id)}
+              onClick={() => handleAddProduct(product.id)}
             >
               <div>
                 <MdShoppingCart
